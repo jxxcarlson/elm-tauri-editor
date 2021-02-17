@@ -1,0 +1,25 @@
+{
+  "name": "tauri-math-edit",
+  "version": "1.0.0",
+  "description": "A LaTeX & Markdown editor with real-time rendering",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jxxcarlson/elm-tauri-editor.git"
+  },
+  "keywords": [
+    "Elm",
+    "text",
+    "editor",
+    "MiniLaTeX"
+  ],
+  "author": "James Carlson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jxxcarlson/elm-tauri-editor/issues"
+  },
+  "homepage": "https://github.com/jxxcarlson/elm-tauri-editor#readme"
+}
